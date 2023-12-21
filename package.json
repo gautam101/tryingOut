@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "testing new things",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gautam101/tryingOut.git"
+  },
+  "author": "gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gautam101/tryingOut/issues"
+  },
+  "homepage": "https://github.com/gautam101/tryingOut#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
